@@ -1,0 +1,27 @@
+{
+  "name": "pex-audio",
+  "version": "1.0.0",
+  "description": "Mp3 audio playback for the pex library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/vorg/pex-audio"
+  },
+  "keywords": [
+    "pex",
+    "audio"
+  ],
+  "author": {
+    "name": "Marcin Ignac",
+    "email": "marcin.ignac@gmail.com",
+    "url": "http://marcinignac.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vorg/pex-audio/issues"
+  },
+  "homepage": "https://github.com/vorg/pex-audio"
+}

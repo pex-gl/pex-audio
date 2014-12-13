@@ -1,0 +1,1 @@
+module.exports.Audio = require('./lib/Audio.js');
