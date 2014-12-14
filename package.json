@@ -1,6 +1,6 @@
 {
   "name": "pex-audio",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Audio playback for the pex library",
   "main": "index.js",
   "scripts": {
